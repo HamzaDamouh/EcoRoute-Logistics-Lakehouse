@@ -1,0 +1,5 @@
+vehicle_type,co2_g_per_km,avg_speed_kmh,fuel_type
+Heavy Truck,250,60,Diesel
+Delivery Van,150,45,Electric
+Motorcycle,70,40,Gasoline
+Cargo Bike,0,15,None

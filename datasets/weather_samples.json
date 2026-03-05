@@ -1,0 +1,23 @@
+[
+  {
+    "location": {"zip_code_prefix": "010", "city": "Sao Paulo"},
+    "measurements": {"temp_c": 22.5, "humidity": 75},
+    "condition": "Rain",
+    "severity_index": 3,
+    "timestamp": "2026-03-05T12:00:00Z"
+  },
+  {
+    "location": {"zip_code_prefix": "020", "city": "Sao Paulo"},
+    "measurements": {"temp_c": 28.1, "humidity": 40},
+    "condition": "Clear",
+    "severity_index": 1,
+    "timestamp": "2026-03-05T13:00:00Z"
+  },
+  {
+    "location": {"zip_code_prefix": "030", "city": "Sao Paulo"},
+    "measurements": {"temp_c": 19.0, "humidity": 90},
+    "condition": "Storm",
+    "severity_index": 5,
+    "timestamp": "2026-03-05T14:30:00Z"
+  }
+]
